@@ -2,7 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, clone the project, open project folder and install their dependencies:
+
+```bash
+git clone https://github.com/Eversonv4/nextjs-tailwind-firebase.git
+
+cd nextjs-tailwind-firebase
+
+npm install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
